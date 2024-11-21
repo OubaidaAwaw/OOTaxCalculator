@@ -1,0 +1,17 @@
+{
+  "name": "OOTaxCalculator",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "scripts": {
+    "start": "nodemon Server",
+    "test": "jasmine"
+  },
+  "author": "Oubaida Awaw",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "jasmine": "^5.4.0"
+  }
+}
